@@ -1,9 +1,9 @@
 # Haskell P3308 Емелин Даниил
-# Инсрументы
-Компилятор- GHC
-Система сборки -[The Haskell Tool Stack](https://docs.haskellstack.org/en/latest/)
-Автоисправление - [ormolu](https://github.com/tweag/ormolu?ysclid=m16plk82mg519570801)
-#Мотивации.<br>
+# Инсрументы<br>
+Компилятор- [GHC](https://www.haskell.org/ghc/)<br>
+Система сборки -[The Haskell Tool Stack](https://docs.haskellstack.org/en/latest/)<br>
+Автоисправление - [ormolu](https://github.com/tweag/ormolu?ysclid=m16plk82mg519570801)<br>
+# Мотивации<br>
 1.
 Меня интересуют встроенные системы,поэтому,пытался,чтобы язык был как-то связан с данной областью.Наткнулся на язык [Atom](https://hackage.haskell.org/package/atom ).Atom-это Haskell EDSL для разработки встроенного программного обеспечения в реальном времени. Основанный на защищенных атомарных действиях (аналогично STM), Atom обеспечивает высокопараллельное программирование без необходимости блокировки мьютексов.Чтобы разобраться с языком Atom нужно владеть Haskell. Поэтому я бы хотел выбрать Haskell для изучения в данном семестре , чтобы в будущем разобраться с Atom.
 <br>2) 
