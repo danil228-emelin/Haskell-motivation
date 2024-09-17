@@ -10,4 +10,4 @@
 Хочется принять участие.Поэтому хочу изучить Haskell. 
 
 <br3>Чтобы узнать где язык Haskell применяется, как его лучше изучать
-посмотрел  [Haskell it Борода](https://www.youtube.com/watch?v=fhMVCRWpNVc) видео с ведущим разработчиком Haskell -Александром Граниным. Так же выбрал книгу по который хочу изучать данный язык.(Functional Design and Architecture)[https://vk.com/doc260340_514724634?hash=IIpm75Kkw9D42krKsXD7Wn8pmofnvwcnVgN8gnbzZCP] Александра Гранина.
+посмотрел  [Haskell it Борода](https://www.youtube.com/watch?v=fhMVCRWpNVc) видео с ведущим разработчиком Haskell -Александром Граниным. Так же выбрал книгу по который хочу изучать данный язык.[Functional Design and Architecture](https://vk.com/doc260340_514724634?hash=IIpm75Kkw9D42krKsXD7Wn8pmofnvwcnVgN8gnbzZCP) Александра Гранина.
